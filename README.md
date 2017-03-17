@@ -1,6 +1,8 @@
 # matchingmarkets
 Python toolbox for simulation of matching markets in economics.
 
+**Please note:**
+
 **Main repo has been moved to https://github.com/QuantEcon/MatchingMarkets.py**
 
 
